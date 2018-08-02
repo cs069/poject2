@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/ic_home"
+            android:title="home"
+            android:id="@+id/home"/>
+        <item android:icon="@drawable/ic_library"
+            android:title="practise"
+            android:id="@+id/practise"/>
+        <item android:icon="@drawable/ic_message"
+            android:title="about"
+            android:id="@+id/about"/>
+    </group>
+    <item android:title="communication">
+        <menu>
+
+            <item android:icon="@drawable/ic_share"
+                android:id="@+id/share"
+                android:title="share"/>
+        </menu>
+    </item>
+
+</menu>
