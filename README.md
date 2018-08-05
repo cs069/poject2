@@ -1,4 +1,4 @@
-# poject2
+# quiZOL v1.2
 This project was given as a project during 10 days summer training at MYWBUT training center, Kolkata, 2018
 Note before installung in your system.
 
