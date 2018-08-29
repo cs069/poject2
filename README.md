@@ -9,4 +9,6 @@ Note before installung in your system.
 
 Your contribution is welcome..
  Here  are some screenshots
- ![](images/Screenshot_20180829-234743.png)
+ <img src="images/Screenshot_20180829-234743.png" width="200" height="300" >
+ <img src="images/Screenshot_20180829-234748.png" width="200" height="300">
+ 
